@@ -1,0 +1,11 @@
+{
+  "name": "AutoTask OS - In-Vehicle Digital Cockpit",
+  "description": "An automotive digital cockpit operating system featuring hands-free voice assistance, real-time EV charging & battery telemetry, GPS weather overlays, emergency SOS dispatch, and driver profile management.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
